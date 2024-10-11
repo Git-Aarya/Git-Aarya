@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
-Computer Science student passionate about software development and data science. Committed to innovation and leveraging technology to solve real-world challenges.
 
 <!--
 # 💻 Tech Stack:
